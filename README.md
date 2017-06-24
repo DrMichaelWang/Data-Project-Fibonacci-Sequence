@@ -1,1 +1,1 @@
-# Data-Project-Fibonacci-Sequence
+# Data Project Fibonacci Sequence
